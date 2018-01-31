@@ -128,7 +128,7 @@ public class p3parte2 {
             return apellido;
         }
 
-        public double getNDni() {
+        public double getTelefono() {
             return telefono;
         }
 
